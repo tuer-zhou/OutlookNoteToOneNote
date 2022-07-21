@@ -1,11 +1,11 @@
 # OutlookNoteToOneNote
 writes your Outlook notes to OneNote
 
-DISCLAIMER
+# DISCLAIMER
 this script send inputs around, so a lot of things can go wrong
 perform at own risk
 
-Guide
+# Guide
 
 A CSV file with the notes is needed.
 File->open and export->import/export->as file->csv(comma seprated values)->select your notes->where it is saved->confirm
